@@ -1,0 +1,12 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Coding Challenge.js",
+  "scripts": {
+    "start": "node CodingChallenge.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
